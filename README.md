@@ -16,8 +16,8 @@ ROS Tutorials in a task-centric course. Tasks organised in a methodical weekly a
 
 ## Resources
 * Websites
-	* wiki.ros.org
-	*  clearpathrobotics.com/assets/guides/kinetic/ros/#
+	* [ROS Wiki](wiki.ros.org)
+	* [ClearPath Robotics](clearpathrobotics.com/assets/guides/kinetic/ros/#)
 * Videos Lectures
     * [The Construct](https://www.youtube.com/playlist?list=PLK0b4e05LnzZWg_7QrIQWyvSPX2WN2ncc)
     * [Robotics Systems Lab](https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
