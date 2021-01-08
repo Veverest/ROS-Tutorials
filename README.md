@@ -23,7 +23,7 @@ ROS Tutorials in a task-centric course. Tasks organised in a methodical weekly a
     * [Robotics Systems Lab](https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
     
 ## Task 0 
-1. Create a ros workspace from the tutorials. Find out what each file and folder is for. 
+1. Create a ros workspace from the tutorials. Find out what each file and folder is for. [Detailed steps here](Task0.md)
 2. Create the private Github repository using git and go through tutorials given. 
 3. Add a progress section in the README of the repository and keep tabs on your work, date-wise. 
 4. For doubts or issues, refer to the internet and include a note in the ISSUES section of the ReadMe. 
